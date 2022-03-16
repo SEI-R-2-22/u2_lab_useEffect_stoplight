@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import './styles/App.css'
 import StopLight from './components/StopLight'
 import Highway from './components/Highway'
